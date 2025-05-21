@@ -9,4 +9,8 @@ data 3
 
 sub-branch added named as "feature"
 
+added sub-branch named "feature"
+added data  after switching to feature branch
+
+
 EOF..
